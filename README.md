@@ -34,3 +34,7 @@
 * **Observações** - Lembrando que é necessário realizar a etapa de configurações do MongoDB Clound antes deste processo
 
 * **node app.js** - Irá ligar a API juntamente realizando a conexão com o MongoDB Clound 
+
+## Rodando o Jmeter
+
+* Executar o executavel do jmeter através do arquivo que foi feito o download ou das configurações de ambiente
