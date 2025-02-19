@@ -4,7 +4,8 @@
 * Teste básicos
 * Teste de Carga
 * Teste de Permormance
-* Implementações de métricas de tempo de requisição
+* Teste de Estresse
+* Teste de Pico
 * Implementação para geração de relatórios
 
 ## Primeios passos após o clone do Projeto
@@ -25,7 +26,13 @@
 
 ## Documentações de Referências
 
+* **Observações:** - Para adicionar o plugin realize o download em **Plugins Manager**, após o download copie o arquivo para a pasta **lib > ext** e cole o arquivo.
+* **Observações:** - Para configurar o plugin reinicie o Jmeter, clique em **Opções** e selecione **Plugins Manager** depois em **Available Plugins**
+* **Observações:** - Para achar o plugin pesquise por **Custom Thread Groups** e selecione, por fim clique em **Apply changes and Restart JMeter**
+* **Observações:** - Para adicionar o plugin será necessário clicar em **Adicionar > Threads (Users)** e selecionar o **Ultimate Thread Group**
+
 * **Jmeter** - https://jmeter.apache.org/
+* **Plugin** - https://jmeter-plugins.org/wiki/PluginsManager/
 * **MongoDB Clound** - https://cloud.mongodb.com/
 * **MongoDB Compass** - https://www.mongodb.com/pt-br/docs/compass/current/install/
 
